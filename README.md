@@ -27,4 +27,4 @@ With AJAX you can:
 
 •	Send data to a server - in the background.
 
-There are few known methods to work around the Same Origin Policy. One popular technique is to use "Script Tag Injection" such as in JSONP. Since the <script> tag is not constrained by the Same Origin Policy, a script on a third-party domain can provide executable code that interacts with a provided callback function.
+There are few known methods to work around the Same Origin Policy. One popular technique is to use "Script Tag Injection" such as in JSONP. Since the < script > tag is not constrained by the Same Origin Policy, a script on a third-party domain can provide executable code that interacts with a provided callback function.
