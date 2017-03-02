@@ -18,7 +18,12 @@ Conventional web applications transmit information to and from the server using 
 With AJAX, when you hit submit, JavaScript will make a request to the server, interpret the results, and update the current screen. In the purest sense, the user would never know that anything was even transmitted to the server.
 
 With AJAX you can: 
+
 •	Update a web page without reloading the page.
+
 •	Request data from a server - after the page has loaded.
+
 •	Receive data from a server - after the page has loaded.
+
 •	Send data to a server - in the background.
+
